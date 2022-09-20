@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+</head>
+<body>
+    <py-script>
+        import smtplib
+
+
+        my_email = "ss5933070@outlook.com"
+        password = "sumit4734"
+
+
+        with smtplib.SMTP("smtp.outlook.com") as connection:
+            connection.starttls()
+            connection.login(user=my_email, password=password)
+            connection.sendmail(from_addr=my_email,
+                                to_addrs= "sumrat1806@gmail.com",
+                                msg="Hello smtp working")
+
+    </py-script>
+</body>
+</html>
