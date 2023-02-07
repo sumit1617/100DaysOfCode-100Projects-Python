@@ -26,3 +26,4 @@ class food:
 
 my_food = food(starters="pizza")
 print(my_food.starters)
+
