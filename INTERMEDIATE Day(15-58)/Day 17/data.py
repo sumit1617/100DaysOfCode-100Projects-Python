@@ -1,0 +1,17 @@
+question_data = [
+    {"text":"How many International centuries does Virat Kohli have.", "answer": "70"},
+    {"text":"In which year India have won the 1st WC.", "answer": "1983"},
+    {"text":"What is the jersey no of MS Dhoni.", "answer": "7"},
+    {"text":"How many IPL titles does MI have.", "answer": "5"},
+    {"text":"Who hold the record for fastest ODI Century.", "answer": "ABD"},
+    {"text":"Which country has won the most ICC Men ODI WC.", "answer": "AUS"},
+    {"text":"What is the highest individual score of the inning in Test match.", "answer": "400"},
+    {"text":"Which player has scored most International centuries.", "answer": "Sachin"},
+    {"text":"From where did the cricket started first.", "answer": "England"},
+    {"text":"How many umpires are there on field", "answer": "2"},
+    {"text":"Who is the King of Cricket.", "answer": "Virat Kohli"},
+    {"text":"How many players can play in the 1 team.", "answer": "11"},
+    {"text":"How many International Cricket Stadium does india have.", "answer": "56"},
+    {"text":"Rohit holds the record fot highest individual score in ODI. What is the score?", "answer": "264"},
+    {"text":"Virat Kohli have the highest runs in single season of IPL. Can u guess the runs?", "answer": "973"},
+]
